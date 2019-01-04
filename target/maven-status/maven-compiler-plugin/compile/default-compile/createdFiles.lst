@@ -1,0 +1,8 @@
+com\qa\business\service\MovieService.class
+com\qa\persistence\repository\MovieRepository.class
+com\qa\rest\MovieEndpoint.class
+com\qa\persistence\repository\MovieDBRepository.class
+com\qa\util\JSONUtil.class
+com\qa\persistence\domain\Movie.class
+com\qa\business\service\MovieServiceImpl.class
+com\qa\rest\JAXActivator.class
